@@ -47,8 +47,6 @@ Unzip the project file in User directory having ruby on rails.
 
 1.cd myrestapp
 2.bundle install
-3.rake db:migrate
-4.rake db:seed
-5.rails s -b 0.0.0.0
+3.rails s -b 0.0.0.0
 
 
